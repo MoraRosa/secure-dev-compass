@@ -91,7 +91,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-12 md:py-20 text-center">
           <div className="max-w-4xl mx-auto space-y-6 md:space-y-8 animate-slide-up">
             <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-              <span className="bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent animate-glow-pulse">
+              <span className="bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
                 Build Secure, Compliant
               </span>
               <span className="block mt-2 text-3xl md:text-5xl lg:text-6xl bg-gradient-to-r from-accent via-primary to-secondary bg-clip-text text-transparent">
